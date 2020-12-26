@@ -40,3 +40,5 @@ def plot_error(p):
 # zweuter test.... teste git hub
 # das ist ein test!!!!
 # kufgkugkugkihgki,
+#jjzfjfku,
+#hjfzgvfkhu
